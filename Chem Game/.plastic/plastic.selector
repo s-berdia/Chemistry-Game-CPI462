@@ -1,0 +1,4 @@
+repository "Chem Game@sberdia@cloud"
+  path "/"
+    br "/main"
+    co "/main"
